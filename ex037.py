@@ -10,7 +10,7 @@ print('3 para Hexadecimal')
 opcao = int(input('Digite sua opção: '))
 
 if opcao == 1:
-    print(f'Você escolheu a opçaõ 1, o número digitado {numero}, convertido para binário é: {bin(numero)}')
+    print(f'Você escolheu a opção 1, o número digitado {numero}, convertido para binário é: {bin(numero)}')
 
 elif opcao == 2:
     print(f'Você escolheur a opção 2, o número digitado {numero} convertido para octal é: {oct(numero)}')
