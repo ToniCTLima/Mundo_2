@@ -20,6 +20,7 @@ print(f'O valor da casa é: R$ {valor_casa:.2f}')
 print(f'Seu salário é de R${salario:.2f}')
 print(f'O valor da prestação mensal será de: R$ {prest_mensal:.2f}')
 print(f'O limite que pode ser descontado do seu salário é R${desconto_30:.2f}')
+
 if prest_mensal > desconto_30:
     print('Seu financiamento não pode ser aprovado.')
 else:
