@@ -32,3 +32,22 @@ elif idade < 18:
 elif idade > 18:
     saldo = idade - 18
     print(f'Você já deveria ter se alistado a {saldo} anos')
+
+# Atualização do código com inserção de sexo
+
+nascimento = int(input('Digite o ano do seu nascimento: '))
+sexo = input('Informe seu sexo: homem / mulher: ')
+idade = 2024 - nascimento
+tempo_alistamento = 18 - idade
+passou_prazo = idade -  18
+if sexo == 'homem' and idade == 18:
+    print(f'Você tem {idade} anos e precisa se alistar.')
+
+elif sexo == 'homem' and idade < 18:
+    print(f'Você tem {idade} anos, seu alistamento acontece daqui a {tempo_alistamento} anos.')
+
+elif sexo == 'homem' and idade > 18:
+    print(f'Sua idade é de {idade} anos e seu alistamento devia ter acontecido a {passou_prazo} anos.')
+
+else:
+    print('Por ser mulher, você não é obrigada a se alistar. Procure a junta de alistamento mais próxima.')
