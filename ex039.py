@@ -6,6 +6,7 @@ idade = 2024 - nascimento
 tempo_alistamento = 18 - idade
 passou_prazo = idade - 18
 
+
 #hora_alistamento =
 if idade == 18:
     print(f'Você tem {idade} anos, está na hora de se alistar')
