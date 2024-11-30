@@ -11,7 +11,7 @@ ex037.py - # Escreva um programa que leia um número inteiro qualquer e peça pa
 
 ex038.py - # Escreva um programa que leia dois números inteiros e compare-os, mostrando na tela uma mensagem: O primeiro valor é maior, o segundo valor é maior, Não existe valor maior, os dois são iguais.
 
-ex039.py - # Se ele ainda vai se alistar ao serviço militar, se é hora de se alistar, se já passou do tempo do alistamento. O programa deve também mostrar o tempo que falta ou que passou do prazo.
+ex039.py - # # Faça um programa que leia o ano de nascimento de um jovem e informe de acordo com sua idade: Se ele ainda vai se alistar ao serviço militar, se é hora de se alistar, se já passou do tempo do alistamento. O programa deve também mostrar o tempo que falta ou que passou do prazo.
 
 ex040.py - # Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:  Média abaixo de 5.0: Reprovado, Média entre 5.0 e 6.9: Recuperação, Média 7.0 ou superior: Aprovado
 
