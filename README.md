@@ -23,6 +23,6 @@ ex043.py - # Desenvolva uma lógica que leia o peso e a altura de uma pessoa, ca
 
 ex044.py - # Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento: A vista dinheiro / cheque 10% de desconto. Em até 2x no cartão - preço normal. 3x ou mais no cartão 20% juros.
 
-ex045.py - # Crie um programa que faça o computador jogar jokenpô com você.
+ex045.py - # Crie um programa que faça o computador jogar jokenpô com você. NÃO FINALIZADO
 
  
